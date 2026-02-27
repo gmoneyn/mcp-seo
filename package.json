@@ -1,6 +1,6 @@
 {
   "name": "seo-toolkit-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SEO toolkit MCP server — analyze meta tags, robots.txt, sitemaps, keyword density, readability, and heading structure",
   "type": "module",
   "bin": {
