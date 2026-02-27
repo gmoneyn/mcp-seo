@@ -1,4 +1,4 @@
-# mcp-seo
+# seo-toolkit-mcp
 
 ## Tagline
 Free SEO toolkit — analyze meta tags, sitemaps, readability, keywords, and more
@@ -40,4 +40,4 @@ Marketing & Social
 seo, meta-tags, robots-txt, sitemap, keyword-density, readability, headings, on-page-seo, audit, free, open-source, marketing, content-optimization, flesch-kincaid, open-graph, twitter-cards
 
 ## Documentation URL
-https://github.com/gmoneyn/mcp-seo
+https://github.com/gmoneyn/seo-toolkit-mcp

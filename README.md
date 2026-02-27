@@ -1,4 +1,4 @@
-# mcp-seo
+# seo-toolkit-mcp
 
 SEO toolkit as an MCP server. Analyze meta tags, robots.txt, sitemaps, keyword density, readability, and heading structure from any AI assistant that supports MCP.
 
@@ -9,9 +9,9 @@ Add to your MCP client config (Claude, Cursor, etc.):
 ```json
 {
   "mcpServers": {
-    "mcp-seo": {
+    "seo-toolkit-mcp": {
       "command": "npx",
-      "args": ["-y", "mcp-seo"]
+      "args": ["-y", "seo-toolkit-mcp"]
     }
   }
 }

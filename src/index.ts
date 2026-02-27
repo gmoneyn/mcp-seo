@@ -1,5 +1,5 @@
 /**
- * mcp-seo — SEO toolkit MCP server.
+ * seo-toolkit-mcp — SEO toolkit MCP server.
  * Analyze meta tags, robots.txt, sitemaps, keyword density, readability, and heading structure.
  */
 
@@ -15,7 +15,7 @@ import { readability } from "./tools/readability.js";
 import { headingStructure } from "./tools/heading-structure.js";
 
 const server = new McpServer({
-  name: "mcp-seo",
+  name: "seo-toolkit-mcp",
   version: "1.0.0",
 });
 

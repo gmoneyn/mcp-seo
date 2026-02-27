@@ -1,10 +1,10 @@
 {
-  "name": "mcp-seo",
+  "name": "seo-toolkit-mcp",
   "version": "1.0.0",
   "description": "SEO toolkit MCP server — analyze meta tags, robots.txt, sitemaps, keyword density, readability, and heading structure",
   "type": "module",
   "bin": {
-    "mcp-seo": "./dist/index.js"
+    "seo-toolkit-mcp": "dist/index.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -41,7 +41,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gmoneyn/mcp-seo"
+    "url": "https://github.com/gmoneyn/seo-toolkit-mcp"
   },
   "engines": {
     "node": ">=18"
